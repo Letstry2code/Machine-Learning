@@ -1,0 +1,46 @@
+*** Data handling ****
+
+Pre processing 
+
+
+1 :     Loading : {json, CSV, }
+2 :     Column renaming
+3 :     Column : Drop/ Add
+4 :     Missing data handling :
+        - Numerical 
+        - textual data
+        ** Categorical Data **
+        ** Discrete Data **  ( may be same for few entries)
+5 : Data Encoding     
+
+
+
+
+
+
+
+Lambda Expression (annonymous)
+
+f(x)=2+x
+f=lambda x: 2+x
+
+
+
+
+
+
+
+
+*** Simple Imputer **** Class from Scikit
+Simple Imputer = Impute = SKlearn
+
+
+
+
+>>>>>>>>    Scikit Learn has a workflow : 
+
+    >>create class instance(object)
+    >>Fit(data)---> provide date to object
+    >>transform
+    >>>>Fit_Transform(data)     ...takes the data and gives the answer
+
