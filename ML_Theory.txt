@@ -1,0 +1,96 @@
+AI
+ML
+
+When we have Data 
+
+>>> Data
+    >>> Tabular format
+  # 1      >>> Dependent Variable       (Known end result,parameter)  Supervised ML Problems
+           >>> Independent Variable 
+
+
+
+
+
+DV > Target/Outcome       (Y)      Single Column Data
+IV > Features Values      (X)      May be more than 1 column of Data
+
+
+
+
+  # 2 If there is no DV  >>>>> Unsupervised ML Problems
+
+
+
+
+
+  # Real Time Generated DataSet >>> reinforcement
+
+
+  Ex :
+    House Price Prediction >>> Supervised ML
+    Classify Birds Species >>> Supervised ML
+    Group a set of customers in a shop  >>> Unsupervised ML   as the data doesnt have any prior defination
+    Find Similar types of News >>> Unsupervised ML
+    Self Driving Car >>> reinforcement
+    Game Enemy AI >>> reinforcement
+
+
+
+
+    Supervised ML 
+        >>>Regression Problem (Actual Values) 
+        Prices (Discrete Values)
+        
+        Classification Problem
+        Species  (Categorical Values)
+        
+
+
+Regression 
+    > Linear 
+           --- Simple Linear Regression
+
+        
+    > Tree 
+
+    > Ensemble ML For Regression (Hybrid)
+
+
+
+
+
+Prediction For Single Variable is done by Calculating mean 
+
+Base Model
+
+
+
+Residual Errors of Best Fit Line
+
+
+            Square Sum of Errors  <<< SSE >>>
+
+
+
+
+Simple Linear Regression 
+
+y= mx + C
+
+y= B0 + B1x + e
+
+
+y(hat) = B0 + B1x
+
+
+B0 == Intercept of Y
+B1 == Slope
+
+
+
+SSR = SSE - SST
+
+
+SSR/SST = Coefficient of R^2    (R^2)=== Accuracy
+   
