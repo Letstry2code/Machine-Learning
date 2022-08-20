@@ -33,7 +33,7 @@ IV > Features Values      (X)      May be more than 1 column of Data
     Group a set of customers in a shop  >>> Unsupervised ML   as the data doesnt have any prior defination
     Find Similar types of News >>> Unsupervised ML
     Self Driving Car >>> reinforcement
-    Game Enemy AI >>> reinforcement
+    Game Enemy AI (Bot) >>> reinforcement
 
 
 
@@ -93,4 +93,12 @@ SSR = SSE - SST
 
 
 SSR/SST = Coefficient of R^2    (R^2)=== Accuracy
+
+
+
+*******************************************************************************************
+*******************************************************************************************
+   
+
+
    
